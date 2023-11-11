@@ -37,8 +37,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ [Add solution URL here](https://your-solution-url.com)](https://oussamaachiche.github.io/Intro_ssection_with_dropdown_navigation/#)
-- Live Site URL: [[Add live site URL here](https://your-live-site-url.com)](https://github.com/OUSSAMAACHICHE/Intro_ssection_with_dropdown_navigation)
+- Solution URL: [View prject solution](https://oussamaachiche.github.io/Intro_ssection_with_dropdown_navigation/#)
+- Live Site URL: [Visit live site](https://github.com/OUSSAMAACHICHE/Intro_ssection_with_dropdown_navigation)
 
 ## My process
 
